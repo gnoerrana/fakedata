@@ -1,0 +1,132 @@
+[
+	{
+		"id": 1,
+		"username": "sheeva",
+		"first_name": "Sheeva",
+		"last_name": "Maryam",
+		"email":"sheeva@moussy.com",
+		"phone_number":"081288192872",
+		"is_verified":true,
+		"last_login":"2020-02-12 00:00:00",
+		"last_login_ip":"127.0.0.1",
+		"created_at":"2020-01-12 00:00:00",
+		"updated_at":"2020-02-12 00:00:00",
+		"deleted_at":"2020-02-12 00:00:00",
+		"tenant":{
+			[
+				"tenant_id":12,
+				"name":"Moussy"
+			]
+		},
+		"roles":{
+			"roles_id":1,
+			"name": "Lingble Admin"
+		}
+	},
+	{
+		"id": 2,
+		"username": "anastasia",
+		"first_name": "Anastasia",
+		"last_name": "Soul",
+		"email":"anastasia@tatras.com",
+		"phone_number":"0817218989812",
+		"is_verified":true,
+		"last_login":"2020-01-01 00:00:00",
+		"last_login_ip":"127.0.0.1",
+		"created_at":"2020-01-12 00:00:00",
+		"updated_at":"2020-02-12 00:00:00",
+		"deleted_at":"2020-02-12 00:00:00",
+		"tenant":{
+			[
+				"tenant_id":13,
+				"name":"Tatras"
+			]
+		},
+		"roles":{
+			"roles_id":3,
+			"name": "Store Manager"
+		}
+	},
+	{
+		"id": 3,
+		"username": "clementine",
+		"first_name": "Clementine",
+		"last_name": "Bauch",
+		"email":"clementine@denimio.com",
+		"phone_number":"081282223122",
+		"is_verified":true,
+		"last_login":"2020-01-01 00:00:00",
+		"last_login_ip":"127.0.0.1",
+		"created_at":"2020-01-12 00:00:00",
+		"updated_at":"2020-02-12 00:00:00",
+		"deleted_at":"2020-02-12 00:00:00",
+		"tenant":{
+			[
+				"tenant_id":14,
+				"name":"Denimio"
+			]
+		},
+		"roles":{
+			"roles_id":2,
+			"name": "Customer Service"
+		}
+	},
+	{
+		"id": 4,
+		"username": "karianne",
+		"first_name": "Patricia",
+		"last_name": "Lebsack",
+		"email":"karianne@denimio.com",
+		"phone_number":"098928988312",
+		"is_verified":true,
+		"last_login":"2020-01-01 00:00:00",
+		"last_login_ip":"127.0.0.1",
+		"created_at":"2020-01-12 00:00:00",
+		"updated_at":"2020-02-12 00:00:00",
+		"deleted_at":"2020-02-12 00:00:00",
+		"tenant":{
+			[
+				"tenant_id":14,
+				"name":"Denimio"
+			]
+		},
+		"roles":{
+			"roles_id":3,
+			"name": "Store Manager"
+		}
+	},
+	{
+		"id": 5,
+		"username": "delphine",
+		"first_name": "Glenna",
+		"last_name": "Glenna",
+		"email":"delphine@lingble.com",
+		"phone_number":"098928988312",
+		"is_verified":true,
+		"last_login":"2020-01-01 00:00:00",
+		"last_login_ip":"127.0.0.1",
+		"created_at":"2020-01-12 00:00:00",
+		"updated_at":"2020-02-12 00:00:00",
+		"deleted_at":"2020-02-12 00:00:00",
+		"tenant":{
+			[
+				{
+					"tenant_id":12,
+					"name":"Moussy"
+				},
+				{
+					"tenant_id":13,
+					"name":"Tatras"
+				},
+				{
+					"tenant_id":14,
+					"name":"Denimio"
+				}
+			]
+		},
+		"roles":{
+			"roles_id":1,
+			"name": "Lingble Admin"
+		}
+	}
+]
